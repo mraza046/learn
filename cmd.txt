@@ -1,0 +1,13 @@
+git init - to initilaize a master branch.
+git status - to check status.
+git add . - to ad all file to branch.
+git add <file name > - to add specific file to branch.
+git commit - m "msg"  - to insert the file in to the master branch.
+git commit - am "msg"  -  hard commit to insert the file in to the master branch.
+
+git log - to see the log
+git checkout -- <file name> - to roll back the file .
+git checkout <commit id> -- <file name>  - to roll back with prevoius commit id.
+git reset HEAD <file name> - to unstage a file 
+
+			
