@@ -10,4 +10,15 @@ git checkout -- <file name> - to roll back the file .
 git checkout <commit id> -- <file name>  - to roll back with prevoius commit id.
 git reset HEAD <file name> - to unstage a file 
 
+
+ls - to see list of file.
+ls -la - to see list of all file including hidden file
+pwd - print working directory
+git mkdir - to create a folder
+git rm <file name>  - to remove file 
+git mv <file name>  <path > <file name> - to move file from one path to other
+
+git remote add <create your own remote name> giturl - to add file file to remote.
+git remote - to see the list of remote file
+
 			
